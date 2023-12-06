@@ -16,7 +16,7 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 - Analyzed the data of 1000+ coffe bean sales from 2019 to 2022, and visualize the trends of Coffe bean sales using Excel.
 - Please visit novypro to see the  live interactive dashboard :
 
-- Here are some takeaways from the analysis :-
+## Here are some takeaways from the analysis :-
 1. The larger the size of the coffee bean, the greater the profit. The largest grain size contributes to 54.3% of the total profit.
 2. The U.S. accounts for orders around 79% more than Ireland and the United Kingdom combined.
 3. The US has the largest total volume of orders around 77.7% there are greater profit margins on coffee beans bought in Ireland around 37%.
