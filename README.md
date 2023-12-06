@@ -8,4 +8,5 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 **Business Problem Statement:** <br>
 -The main goals are to find the top customers, track coffee sales trends and country-by-country analysis. The dashboard should allow for improving product features, and support geographic expansion.
 
+## Coffee-Bean-Sales-Dashboard
 
